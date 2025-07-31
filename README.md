@@ -24,22 +24,22 @@ Key Scenarios & Analytical Approaches
 - Iterative modelling and diagnostic refinement
 - Interpreted model coefficients and business impact
 
-  BikeMart – Campaign and Advertising Effect
+BikeMart – Campaign and Advertising Effect
 - Built a model with interaction terms between campaign frequency and advertising spend
 - Visualised interaction effect
 - Delivered targeted recommendations on budget allocation
   
-  Gadget4U – Predicting Add-On Purchases
+Gadget4U – Predicting Add-On Purchases
 - Modelled probability of customers purchasing headphones after phone sales
 - Applied binary classification techniques
 - Evaluated key drivers of complementary purchases
 
-  CosmeticChain – Store Manager Resignation Risk
+CosmeticChain – Store Manager Resignation Risk
 - Built logistic regression using age, experience, and gender
 - Visualised predicted resignation probabilities for different profiles
 - Provided actionable HR and workforce planning insights
 
-  MoonlightAle – Pale Ale Production Forecast
+MoonlightAle – Pale Ale Production Forecast
 - Constructed a time-series model for quarterly production forecasting
 - Selected optimal forecasting approach (e.g., moving average, exponential smoothing)
 - Delivered practical production estimates for the next 4 quarters
